@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\C sharp\Hashset\bin\Debug\net8.0\Hashset.exe
+C:\Users\Administrator\Desktop\C sharp\Hashset\bin\Debug\net8.0\Hashset.deps.json
+C:\Users\Administrator\Desktop\C sharp\Hashset\bin\Debug\net8.0\Hashset.runtimeconfig.json
+C:\Users\Administrator\Desktop\C sharp\Hashset\bin\Debug\net8.0\Hashset.dll
+C:\Users\Administrator\Desktop\C sharp\Hashset\bin\Debug\net8.0\Hashset.pdb
+C:\Users\Administrator\Desktop\C sharp\Hashset\obj\Debug\net8.0\Hashset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C sharp\Hashset\obj\Debug\net8.0\Hashset.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C sharp\Hashset\obj\Debug\net8.0\Hashset.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C sharp\Hashset\obj\Debug\net8.0\Hashset.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C sharp\Hashset\obj\Debug\net8.0\Hashset.dll
+C:\Users\Administrator\Desktop\C sharp\Hashset\obj\Debug\net8.0\refint\Hashset.dll
+C:\Users\Administrator\Desktop\C sharp\Hashset\obj\Debug\net8.0\Hashset.pdb
+C:\Users\Administrator\Desktop\C sharp\Hashset\obj\Debug\net8.0\Hashset.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C sharp\Hashset\obj\Debug\net8.0\ref\Hashset.dll

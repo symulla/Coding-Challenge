@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\C sharp\Conversion\bin\Debug\net8.0\Conversion.exe
+C:\Users\Administrator\Desktop\C sharp\Conversion\bin\Debug\net8.0\Conversion.deps.json
+C:\Users\Administrator\Desktop\C sharp\Conversion\bin\Debug\net8.0\Conversion.runtimeconfig.json
+C:\Users\Administrator\Desktop\C sharp\Conversion\bin\Debug\net8.0\Conversion.dll
+C:\Users\Administrator\Desktop\C sharp\Conversion\bin\Debug\net8.0\Conversion.pdb
+C:\Users\Administrator\Desktop\C sharp\Conversion\obj\Debug\net8.0\Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C sharp\Conversion\obj\Debug\net8.0\Conversion.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C sharp\Conversion\obj\Debug\net8.0\Conversion.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C sharp\Conversion\obj\Debug\net8.0\Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C sharp\Conversion\obj\Debug\net8.0\Conversion.dll
+C:\Users\Administrator\Desktop\C sharp\Conversion\obj\Debug\net8.0\refint\Conversion.dll
+C:\Users\Administrator\Desktop\C sharp\Conversion\obj\Debug\net8.0\Conversion.pdb
+C:\Users\Administrator\Desktop\C sharp\Conversion\obj\Debug\net8.0\Conversion.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C sharp\Conversion\obj\Debug\net8.0\ref\Conversion.dll
